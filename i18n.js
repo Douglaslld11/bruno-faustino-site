@@ -42,7 +42,8 @@
       "videos.label": "03 — No palco",
       "videos.h2": "Aperta o play<br />e sente o som.",
       "videos.link": "Ver canal no YouTube",
-      "videos.fallback": "Seu navegador não suporta vídeo.",
+      "videos.play1": "Assistir no YouTube: Mentes tão bem / O que combina comigo é você",
+      "videos.play2": "Assistir no YouTube: Inventor dos amores / Seus efeitos",
 
       "gallery.aria": "Galeria de fotos",
       "gallery.alt1": "Bruno Faustino em apresentação",
@@ -97,7 +98,8 @@
       "videos.label": "03 — En el escenario",
       "videos.h2": "Dale play<br />y sentí el sonido.",
       "videos.link": "Ver el canal en YouTube",
-      "videos.fallback": "Tu navegador no soporta video.",
+      "videos.play1": "Ver en YouTube: Mentes tão bem / O que combina comigo é você",
+      "videos.play2": "Ver en YouTube: Inventor dos amores / Seus efeitos",
 
       "gallery.aria": "Galería de fotos",
       "gallery.alt1": "Bruno Faustino en una presentación",
